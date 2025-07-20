@@ -46,7 +46,7 @@ These files help automate the setup of Ubuntu software:
 - [x] **Answer** - Scalable Q&A platform for teams
 - [x] **Dagu** - CRON jobs/workflow engine for all team sizes
 - [x] **Apprise** - Universal push notification system
-- [x] **AudioScript™️** - Audio recording software for video characters
+- [x] **AudioScript™️** - Audio recording software for video game characters
 - [x] **Y2Drag** - Multi-video resizing and positioning tool
 - [x] **ListURLs** - Save and share multiple links as one URL
 

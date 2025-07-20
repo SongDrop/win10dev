@@ -1,5 +1,17 @@
 [
   {
+    "logo": "https://i.pinimg.com/originals/71/27/86/712786aab0a2dc25b55b5b7d466588d4.png",
+    "title": "Win10 Remote Control Centre",
+    "description": "Powered by NVIDIA, spin up GPU Windows10 computers for your team",
+    "yt_video_link": "https://www.youtube.com/watch?v=zp-yJbae8Ck",
+    "github_url": "https://github.com/SongDrop/win10",
+    "subdomain": "@",
+    "username": "admin",
+    "password": "winpass123!",
+    "azure_create_api_url": "/api/create",
+    "vm_url": ""
+  },
+  {
     "logo": "https://i.postimg.cc/L5rdRHkd/gitgpt.png",
     "title": "GitGPT",
     "description": "A custom made gpt front-end for development purposes.",

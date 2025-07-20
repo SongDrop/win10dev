@@ -1,6 +1,14 @@
 # Win10Dev - Remote Development Workstation Solutions
 
-**Open Source Community Project**
+**Open Source Community Project on OpenCollective**
+Our backers:  
+Thanks to everyone who has already backed us!
+
+<a href="https://opencollective.com/songdropnet#backers">
+  <img src="https://opencollective.com/songdropnet/backers.svg?width=890" />
+</a>
+
+Support us by contributing or sponsoring!
 
 ## API Services
 

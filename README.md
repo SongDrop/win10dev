@@ -48,3 +48,11 @@ These files help automate the setup of Ubuntu software:
 - [x] **AudioScript™️** - Audio recording software for video characters
 - [x] **Y2Drag** - Multi-video resizing and positioning tool
 - [x] **ListURLs** - Save and share multiple links as one URL
+
+## Prerequisites  
+
+🔹 **Microsoft Azure Account Required**  
+These tools require an Azure account to deploy and manage resources.  
+
+[![Microsoft Azure](https://i.postimg.cc/XYywKvdC/azure.png)](https://portal.startups.microsoft.com/signup)  
+[Sign up for Microsoft Azure](https://portal.startups.microsoft.com/signup)  

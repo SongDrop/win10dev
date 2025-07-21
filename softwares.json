@@ -202,5 +202,18 @@
     "password": "listurlspass123!",
     "azure_create_api_url": "/api/create",
     "vm_url": ""
+  },
+   {
+    "logo": "https://i.postimg.cc/MKm93jPM/opespypro.png",
+    "title": "OpenSpyPro",
+    "description": "Build/Compile via VPN, setup game servers",
+    "yt_video_link": "https://www.youtube.com/watch?v=i8-VV3oCOgk",
+    "github_url": "https://github.com/SongDrop/openspypro",
+    "subdomain": "openspy",
+    "username": "admin",
+    "password": "openspyspass123!",
+    "azure_create_api_url": "/api/create",
+    "vm_url": ""
   }
+  
 ]

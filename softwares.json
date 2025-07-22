@@ -203,7 +203,7 @@
     "azure_create_api_url": "/api/create",
     "vm_url": ""
   },
-   {
+  {
     "logo": "https://i.postimg.cc/MKm93jPM/opespypro.png",
     "title": "OpenSpyPro",
     "description": "Build/Compile via VPN, setup game servers",
@@ -214,6 +214,17 @@
     "password": "openspyspass123!",
     "azure_create_api_url": "/api/create",
     "vm_url": ""
+  },
+  {
+    "logo": "https://i.postimg.cc/59kkKtcf/openvpn.png",
+    "title": "OpenVPN",
+    "description": "Create a VPN to use Incredibuild 5.0 to build faster",
+    "yt_video_link": "https://www.youtube.com/watch?v=uvUJ7I7G1S4",
+    "github_url": "https://github.com/OpenVPN/openvpn",
+    "subdomain": "vpn",
+    "username": "admin",
+    "password": "vpnpass123!",
+    "azure_create_api_url": "/api/create",
+    "vm_url": ""
   }
-  
 ]

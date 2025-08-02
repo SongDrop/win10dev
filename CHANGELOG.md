@@ -2,6 +2,7 @@
 
 ## Need to be done
 []superF4.exe can run in the background and it is the best tool to kill application with CTRL+ALT+SHIFT+F4
+
 currently C:\Program Files\sunshine\config\app.json need to be changed to call this CTRL+ALT+SHIFT+F4 so need to write an AutoHotDesk.exe
 
 HideUnhideDesktopIcons - CTRL+SHIFT+9

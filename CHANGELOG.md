@@ -5,9 +5,13 @@
 currently C:\Program Files\sunshine\config\app.json need to be changed to call this CTRL+ALT+SHIFT+F4 so need to write an AutoHotDesk.exe
 
 HideUnhideDesktopIcons - CTRL+SHIFT+9
+
 MinimiseWindow - CTRL+SHIFT+5
+
 PageUpDown - CTRL+SHIFT+9
+
 PrintScreen - CTRL+SHIFT+3
+
 KillWindow - CTRL+ALT+SHIFT+F4
 
 

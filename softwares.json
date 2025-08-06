@@ -37,8 +37,8 @@
   },
   {
     "logo": "https://i.postimg.cc/Ss1FTLJx/mailcow.png",
-    "title": "MailCow - Self hosted smtp email service",
-    "description": "MailCow",
+    "title": "MailCow",
+    "description": "MailCow - Self hosted smtp email service",
     "yt_video_link": "https://www.youtube.com/watch?v=vRMpavo8a98",
     "github_url": "https://github.com/mailcow/mailcow-dockerized",
     "subdomain": "smtp",

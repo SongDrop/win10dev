@@ -122,7 +122,7 @@
   {
     "logo": "https://i.postimg.cc/4dWsCkFZ/paperless.png",
     "title": "Paperless",
-    "description": "Document management system: scan, index and archive all your documents ",
+    "description": "Document management-scan, index and archive all your documents ",
     "yt_video_link": "https://www.youtube.com/watch?v=uT9Q5WdBGos",
     "github_url": "https://github.com/paperless-ngx/paperless-ngx",
     "subdomain": "paper",
@@ -158,7 +158,7 @@
   {
     "logo": "https://i.postimg.cc/j5xtkdcZ/apprise.png",
     "title": "Apprise",
-    "description": " Push Notifications that work with just about every platform",
+    "description": "Push Notifications that work with just about every platform",
     "yt_video_link": "https://www.youtube.com/watch?v=Cj7A46NuACA&t=123s",
     "github_url": "https://github.com/caronc/apprise",
     "subdomain": "apprise",
